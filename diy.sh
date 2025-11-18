@@ -32,6 +32,10 @@ git clone --depth 1 https://github.com/jerrykuku/luci-app-argon-config package/l
 git clone --depth 1 https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall-packages
 git clone --depth 1 https://github.com/fw876/helloworld package/helloworld
 git clone --depth 1 https://github.com/sbwml/luci-app-openlist2 package/luci-app-openlist2
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter 
+git clone https://github.com/sirpdboy/luci-app-partexp.git package/luci-app-partexp
+git clone --depth=1 https://github.com/lmq8267/luci-app-vnt.git package/vnt
+git clone https://github.com/sirpdboy/luci-app-lucky.git package/lucky
 git clone --depth 1 https://github.com/chenmozhijin/luci-app-adguardhome package/luci-app-adguardhome
 git clone --depth 1 https://github.com/OldCoding/luci-app-filebrowser package/luci-app-filebrowser
 #git clone --depth 1 https://github.com/hudra0/luci-app-qosmate package/luci-app-qosmate
